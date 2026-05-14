@@ -1,0 +1,7 @@
+# Update this path after exporting your annotated YOLO dataset.
+path: ../datasets/accident_yolo
+train: images/train
+val: images/val
+
+names:
+  0: accident
